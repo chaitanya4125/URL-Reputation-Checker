@@ -81,7 +81,7 @@ No additional packages are required.
 
 ```bash
 # Clone repository
-git clone [https://github.com/YOUR_USERNAME/url-reputation-checker.git](https://github.com/chaitanya4125/URL-Reputation-Checker.git)
+git clone https://github.com/chaitanya4125/URL-Reputation-Checker.git
 
 # Navigate to project directory
 cd url-reputation-checker
